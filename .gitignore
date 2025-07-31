@@ -1,0 +1,27 @@
+# Node.js (frontend, backend 공통)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# 환경설정 파일
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log
+logs/
+*.log
+
+# Optional
+frontend/.next/
+frontend/out/
+backend/tmp/
