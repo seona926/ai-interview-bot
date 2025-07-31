@@ -21,7 +21,7 @@ Thumbs.db
 logs/
 *.log
 
-# Optional: 특정 output 폴더 무시
+# Optional
 frontend/.next/
 frontend/out/
 backend/tmp/
